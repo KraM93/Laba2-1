@@ -1,0 +1,13 @@
+<t>Пример html-страницы</t>
+<h1>Информация по задаче</h1>
+<p>UUID: ec49b439-45a7-4e2d-9ed0-33aea1a02ec3</p>
+<table><tr><th>UUID</th></tr></table>
+<table><tr><th>Агрегат</th></tr></table>
+<table><tr><th>Номер документа поставки</th></tr></table>
+<table><tr><th>Сотрудник</th></tr></table>
+<table><tr><th>Описание</th></tr></table>
+<table><tr><th>Дата создания</th></tr></table>
+<ul><li>Элемент списка 1</li></ul>
+<ul><li>Элемент списка 2</li></ul>
+<ul><li>Элемент списка 3</li></ul>
+<ul><li>Элемент списка 4</li></ul>
